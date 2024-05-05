@@ -1,0 +1,15 @@
+C:\Users\twixe\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.exe
+C:\Users\twixe\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.deps.json
+C:\Users\twixe\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.runtimeconfig.json
+C:\Users\twixe\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.dll
+C:\Users\twixe\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.pdb
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.csproj.AssemblyReference.cache
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfo.cs
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.dll
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\refint\Triangle.dll
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.pdb
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.genruntimeconfig.cache
+C:\Users\twixe\source\repos\Triangle\Triangle\obj\Debug\net6.0\ref\Triangle.dll
